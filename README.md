@@ -23,4 +23,4 @@ Sou um desenvolvedor Full Stack em formação.
 </div>
 <br/>
 
-[![Saor GitHub Status](https://github-readme-stats.vercel.app/api?username=saorcampos&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Saor GitHub Status](https://github-readme-stats.vercel.app/api?username=saorcampos&theme=tokyonight)](https://github.com/SaorCampos/github-readme-stats)
