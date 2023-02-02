@@ -1,7 +1,7 @@
 # Olá, eu sou Saor! 👋
 
 ## 🧑🏾‍💻 Sobre mim
-Sou um desenvolvedor Full Stack em formação.
+Sou um desenvolvedor Full Stack.
 
 ## 🔗 Redes Sociais
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaorCampos)
